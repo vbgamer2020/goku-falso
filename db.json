@@ -1,1 +1,12 @@
-
+{
+    "Personagens": [
+        {
+          "Nome": "Goku",
+          "descricao1": "(玉ぎょく犬けん Gyokuken?): Shikigami caninos gêmeos com narizes poderosos para rastrear e presas e garras letais para devorar maldições."
+        },
+       {
+         "Nome": "Vegeta",
+          "descricao1": "(玉ぎょく犬けん Gyokuken?): Shikigami caninos gêmeos com narizes poderosos para rastrear e presas e garras letais para devorar maldições."
+        }
+    ]
+}
