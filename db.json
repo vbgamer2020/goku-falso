@@ -2,11 +2,33 @@
     "Personagens": [
         {
           "Nome": "Goku",
-          "descricao1": "(Goku (孫 悟空, Son Gokū, ou Son Goku), nascido Kakarotto (カカロット, Kakarotto) é o protagonista das franquias Dragon Ball. Ele é neto adotivo de Vovô Gohan, filho de Bardock e Gine, o irmão mais novo de Raditz, o marido de Chichi, pai de Gohan e Goten, avô de Pan e mais tarde tataravô de Goku Jr. Sua primeira aparição ocorreu em 1984, no primeiro capítulo do mangá Dragon Ball, publicado na revista Weekly Shōnen Jump. Goku é inspirado em Sun Wukong, personagem do romance Jornada ao Oeste. Porém, Toriyama mudou algumas de suas características para ser mais original. Goku é apresentado como um menino estranho com rabo de macaco e força sobre-humana. Alegre, corajoso, e também um pouco ingênuo, Goku é um Saiyajin originalmente enviado à Terra quando criança com a missão de destruí-la. Porém, um acidente altera sua memória, fazendo-o crescer com um coração puro e depois se torna o maior defensor da Terra, e também o líder informal dos Guerreiros Z. Através da sua vida, ele treina duro e deseja ser o melhor guerreiro possível, e ao mesmo tempo usando sua força incrível para manter a paz."
+          "descricao1": "(Goku (孫 悟空, Son Gokū, ou Son Goku), nascido Kakarotto (カカロット, Kakarotto) é o protagonista das franquias Dragon Ball. Ele é neto adotivo de Vovô Gohan, filho de Bardock e Gine, o irmão mais novo de Raditz, o marido de Chichi, pai de Gohan e Goten, avô de Pan e mais tarde tataravô de Goku Jr. Sua primeira aparição ocorreu em 1984, no primeiro capítulo do mangá Dragon Ball, publicado na revista Weekly Shōnen Jump. Goku é inspirado em Sun Wukong, personagem do romance Jornada ao Oeste. Porém, Toriyama mudou algumas de suas características para ser mais original. Goku é apresentado como um menino estranho com rabo de macaco e força sobre-humana. Alegre, corajoso, e também um pouco ingênuo, Goku é um Saiyajin originalmente enviado à Terra quando criança com a missão de destruí-la. Porém, um acidente altera sua memória, fazendo-o crescer com um coração puro e depois se torna o maior defensor da Terra, e também o líder informal dos Guerreiros Z. Através da sua vida, ele treina duro e deseja ser o melhor guerreiro possível, e ao mesmo tempo usando sua força incrível para manter a paz.",
+          "tamanho1": "1,75 metros de altura",
+          "poder1": "Maior poder de luta: 780 Bilhões",
         },
        {
          "Nome": "Vegeta",
-          "descricao2": "Vegeta (ベジータ Bejīta), mais especificamente Vegeta IV (ベジータ四世 Bejīta Yonsei), reconhecido como Príncipe Vegeta (ベジータ王子 Bejīta Ōji), é o príncipe da raça Saiyajin caída e marido de Bulma, pai de Trunks. e Bulla, o filho mais velho do Rei Vegeta, além de um dos personagens principais da série Dragon Ball. Majestoso, egoísta e cheio de orgulho, Vegeta já foi um guerreiro cruel e de sangue frio e um assassino absoluto, mas depois abandonou sua posição na Força Frieza para uma vida pacífica na Terra. Ele lutaria repetidamente ao lado dos guerreiros mais poderosos do Universo 7 para proteger a Terra e sua família, bem como para superar Goku no poder. O forte desenvolvimento do personagem de Vegeta recebeu muitos elogios e é considerado o maior da série. Ele inicialmente estreou como o principal antagonista da Saga Vegeta, mas progrediu para um papel tritagonista mais anti-heróico para o resto de Dragon Ball Z. Desde a Saga Majin Buu e entrando em Dragon Ball Super, Vegeta tem sido o principal deuteragonista/protagonista secundário. atrás de Goku."
-        }
+          "descricao2": "Vegeta (ベジータ Bejīta), mais especificamente Vegeta IV (ベジータ四世 Bejīta Yonsei), reconhecido como Príncipe Vegeta (ベジータ王子 Bejīta Ōji), é o príncipe da raça Saiyajin caída e marido de Bulma, pai de Trunks. e Bulla, o filho mais velho do Rei Vegeta, além de um dos personagens principais da série Dragon Ball. Majestoso, egoísta e cheio de orgulho, Vegeta já foi um guerreiro cruel e de sangue frio e um assassino absoluto, mas depois abandonou sua posição na Força Frieza para uma vida pacífica na Terra. Ele lutaria repetidamente ao lado dos guerreiros mais poderosos do Universo 7 para proteger a Terra e sua família, bem como para superar Goku no poder. O forte desenvolvimento do personagem de Vegeta recebeu muitos elogios e é considerado o maior da série. Ele inicialmente estreou como o principal antagonista da Saga Vegeta, mas progrediu para um papel tritagonista mais anti-heróico para o resto de Dragon Ball Z. Desde a Saga Majin Buu e entrando em Dragon Ball Super, Vegeta tem sido o principal deuteragonista/protagonista secundário. atrás de Goku.",
+         "tamanho2": "1,65 metros de altura",
+           "poder2": "Maior poder de luta: 10 Bilhões",
+       },
+      {
+        "Nome": "Gohan",
+        "descricao3": "Son Gohan (孫 悟飯 Son Gohan?), também conhecido apenas como Gohan, é um personagem fictício da franquia Dragon Ball criado por Akira Toriyama. Ele aparece na segunda parte do mangá, que corresponde ao anime Dragon Ball Z. Gohan é filho do protagonista Goku com sua esposa Chi-Chi e o primeiro híbrido entre humano e Saiyajin mostrado na série, seu nome é uma homenagem ao avô adotivo de seu pai, Son Gohan que foi aluno de Mestre Kame, assim como Goku. Um tema recorrente na série é o grande poder oculto de Gohan, que aos poucos é liberado.",
+        "tamanho3": "1,76 metros de altura",
+          "poder3": "Maior poder de luta: 680 Bilhões",
+      },
+      {
+        "Nome": "Goten",
+        "descricao4": "Son Goten (孫 悟天 Son Goten, mais conhecido somente como Goten) é um personagem fictício da franquia Dragon Ball. Ele marcou sua estréia em 4 de novembro de 1993 no capítulo de número 425, Eles sabem!! (バレた!!! Bareta!!!?). No mangá, Goten é o segundo filho do protagonista Son Goku e de sua esposa Chichi, irmão mais novo de Gohan e melhor amigo de Trunks. Para proteger o planeta Terra os dois garotos aprendem a se fundir em um único guerreiro chamado Gotenks.",
+        "tamanho4": "1,23 metros de altura",
+          "poder4": "Maior poder de luta: 30.000.000",
+      },
+      {
+        "Nome": "Trunks",
+        "descricao5": "Trunks Briefs (トランクスブリーフ Torankusu Burīfu?) é um personagem fictício do mangá e anime Dragon Ball criado por Akira Toriyama. Ele fez sua estréia no capítulo # 331 conhecido como O Jovem Misterioso (謎 の 少年 Nazo no Shōnen ??), publicado pela primeira vez na revista Weekly Shōnen Jump em 15 de julho de 1991.[1] Existem dois Trunks na série, sendo que o primeiro que apareceu foi o Trunks do Futuro (未来のトランクス Mirai no Torankusu??), a versão adulta que viajou no tempo para avisar os Guerreiros Z sobre a ameaça de inimigos mortais. Essa versão também participa de Dragon Ball Super. A outra versão é o Kid Trunks, versão criança do presente e que participa de Dragon Ball GT. Ele apareceu pela primeira vez como um bebê no capítulo # 337, O Encontro dos Super Guerreiros (集 う 超戦 士た ち Tsudō Super Senshi-tachi ??), publicado em 26 de agosto de 1991.",
+        "tamanho5": "1,29 metros de altura",
+          "poder5": "Maior poder de luta: 30.000.000",
+      },
     ]
 }
